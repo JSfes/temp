@@ -1,4 +1,0 @@
-mkdocs
-mkdocs-material
-mkdocs-blog-plugin
-git+https://github.com/jldiaz/mkdocs-plugin-tags.git
